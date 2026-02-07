@@ -1,5 +1,6 @@
 import React from 'react'
 
+// deleare the props , we can use any nmae instade of props. the working wll remain same 
 const Card = (props) => {
   return (
      <div className='card'>
