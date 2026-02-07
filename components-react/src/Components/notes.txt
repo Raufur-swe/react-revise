@@ -1,0 +1,1 @@
+in components we need start / first latter of the components name in capital latter
