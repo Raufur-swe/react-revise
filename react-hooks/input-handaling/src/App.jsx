@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   const fromhandeler = (e) => {
-    e.preventDefault()
+    e.preventDefault() // this stop rloading when form submit
 
     console.log("from submitted")
   }

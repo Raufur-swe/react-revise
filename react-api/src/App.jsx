@@ -20,7 +20,7 @@ return (
       </button>
       
       {title.map((e , idx)=>{
-         return <h3>
+         return <h3 key={idx}>
             {e.title}
           </h3>
       
